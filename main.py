@@ -1,3 +1,5 @@
 #Fix the code below 👇
 
-print("Hello"+" "+"Taha")
+name = input("What is your name")
+
+print("Hello"+" "+name)
